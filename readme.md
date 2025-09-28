@@ -51,12 +51,13 @@ The project focuses on implementing **unsupervised learning (clustering)** and *
 ```bash
 git clone https://github.com/USERNAME/ml-practice-clustering-classification.git
 cd ml-practice-clustering-classification
-
+```
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
-
+```
 3. Open notebooks:
 ```bash
 jupyter notebook clustering_submission.ipynb
 jupyter notebook classification_submission.ipynb
+```
